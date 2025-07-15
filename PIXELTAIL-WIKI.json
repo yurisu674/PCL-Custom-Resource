@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "data": {
+    "fontId": "Fusion Pixel 10px",
+    "texts": [
+      {
+        "content": "PIXELTAIL",
+        "opts": {
+          "size": 10,
+          "depth": 5,
+          "y": 8,
+          "z": 0,
+          "rotY": 0,
+          "materials": {
+            "front": {
+              "mode": "gradient",
+              "colorGradualStart": "#ffd07b",
+              "colorGradualEnd": "#ffaa00",
+              "repeat": 1,
+              "offset": 0
+            },
+            "back": {
+              "mode": "gradient",
+              "colorGradualStart": "#ffd07b",
+              "colorGradualEnd": "#ffaa00",
+              "repeat": 1,
+              "offset": 0
+            },
+            "up": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "down": {
+              "mode": "gradient",
+              "colorGradualStart": "#a56c00",
+              "colorGradualEnd": "#553800",
+              "repeat": 1,
+              "offset": 0
+            },
+            "left": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "right": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "outline": {
+              "mode": "color",
+              "color": "#291a00"
+            }
+          },
+          "outlineWidth": 0.4,
+          "letterSpacing": 1,
+          "spacingWidth": 0.2,
+          "overlay": {
+            "name": "overlay.highlightShine",
+            "preview": "/overlay-preview/shine.png"
+          }
+        },
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "content": "WIKI",
+        "opts": {
+          "size": 5,
+          "depth": 3,
+          "y": -8.1,
+          "z": 20,
+          "rotY": -10,
+          "materials": {
+            "front": {
+              "mode": "gradient",
+              "colorGradualStart": "#ffd07b",
+              "colorGradualEnd": "#ffaa00",
+              "repeat": 1,
+              "offset": 0
+            },
+            "back": {
+              "mode": "gradient",
+              "colorGradualStart": "#ffd07b",
+              "colorGradualEnd": "#ffaa00",
+              "repeat": 1,
+              "offset": 0
+            },
+            "up": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "down": {
+              "mode": "gradient",
+              "colorGradualStart": "#a56c00",
+              "colorGradualEnd": "#553800",
+              "repeat": 1,
+              "offset": 0
+            },
+            "left": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "right": {
+              "mode": "color",
+              "color": "#553800"
+            },
+            "outline": {
+              "mode": "color",
+              "color": "#291a00"
+            }
+          },
+          "outlineWidth": 0.5,
+          "letterSpacing": 1.5,
+          "spacingWidth": 0.2,
+          "overlay": {
+            "name": "overlay.highlightShine",
+            "preview": "/overlay-preview/shine.png"
+          }
+        },
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+}
